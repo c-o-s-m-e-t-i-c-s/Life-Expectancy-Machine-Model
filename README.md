@@ -1,5 +1,5 @@
 
-# **FINAL PYTHON PROJECT APPLICATION ON LIFE **
+# **FINAL PYTHON PROJECT APPLICATION ON LIFE EXPECTANCY**
 
 A Python machine learning model that is trained using linear regression model based on UN Countries using Health Exp (% of GDP), Political Stability Index, Rural Pop %, DPT3 Vac % as key indicators and life expectancy as the target variable.
 
